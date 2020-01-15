@@ -63,3 +63,4 @@ Sit in the back of the bus for MLK Day
 # Example of controversial images
 
 * "[The Vulture and the Little Girl](https://en.wikipedia.org/wiki/The_vulture_and_the_little_girl)" By Kevin Carter, 1993, Sudan
+* "[Napalm Girl](https://en.wikipedia.org/wiki/Phan_Thi_Kim_Phuc)" By Nick Ut, 1972
