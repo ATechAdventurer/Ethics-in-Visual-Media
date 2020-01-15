@@ -12,10 +12,9 @@
 * What should the company response should have been?
 
 ### Robert Hyde [Dirty Tweet](https://www.cnn.com/2020/01/14/us/american-airlines-harassment-lawsuit-trnd/index.html)
-![Donald Trump Tweet](https://github.com/ATechAdventurer/Ethics-in-Visual-Media/blob/master/assets/Screen%20Shot%202020-01-15%20at%203.13.55%20PM.png)
 
 ### Trump Retweeting Photoshoped Image about Palosi
-
+![Donald Trump Tweet](https://github.com/ATechAdventurer/Ethics-in-Visual-Media/blob/master/assets/Screen%20Shot%202020-01-15%20at%203.13.55%20PM.png)
 ## Five Issues of Visual
 
 * Staged / Manipulated
@@ -54,4 +53,9 @@
 
 > What do you hope to gain from this course and how do you plan to contribute to your own learning?
 
+# Extra Credit
 What were you thinking?
+Sit in the back of the bus for MLK Day
+
+# Discussion Board
+> Find an example in which you think a photojournalist behaved controversially. Include a picture. Select one of the six philosophies, define it with a source
