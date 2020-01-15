@@ -59,3 +59,7 @@ Sit in the back of the bus for MLK Day
 
 # Discussion Board
 > Find an example in which you think a photojournalist behaved controversially. Include a picture. Select one of the six philosophies, define it with a source
+
+# Example of controversial images
+
+* "[The Vulture and the Little Girl](https://en.wikipedia.org/wiki/The_vulture_and_the_little_girl)" By Kevin Carter, 1993, Sudan
